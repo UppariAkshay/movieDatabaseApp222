@@ -1,0 +1,7 @@
+.moviesContainerUL {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style-type: none;
+}
